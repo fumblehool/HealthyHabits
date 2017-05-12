@@ -1,8 +1,8 @@
-#Healthy Habits Chrome Extension
+# Healthy Habits Chrome Extension
 
 It is a Chrome Extension that gives user a healthy habit whenever he clicks on the "Get a Healthy Habit!!" button.
 
-##Testing it out
+## Testing it out
 
 It’s really easy to test a new extension in Chrome. Type **“chrome://extensions”** in a tab to bring up the extensions page.
 
